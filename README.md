@@ -1,2 +1,3 @@
-# Plagiarism
-Plagiarism checkers are software that can be used to cross-check text for duplicated content (this may include quoted material, paraphrased material, similarities in wording, etc.). These tools help to ensure that writing is original and correctly cited.
+# you should make a 3 text files in a folder 
+
+# set a path for the text files for checking process of the files
